@@ -69,7 +69,9 @@ header{
 .nav-sec a:focus{
     color: #434455;
 }
-
+.nav-sec a{
+    color: var(--logo-black);
+}
 
 li{
     list-style: none;
