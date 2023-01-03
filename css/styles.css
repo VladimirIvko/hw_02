@@ -72,7 +72,9 @@ header{
 .nav-sec a{
     color: var(--logo-black);
 }
-
+.tel a {
+    color: #434455;
+}
 li{
     list-style: none;
 }
